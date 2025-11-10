@@ -69,7 +69,6 @@ By contributing ideas, documentation, or code, you acknowledge that:
 
 ## 6. Contact
 For partnership, licensing, or collaboration inquiries:  
-📧 **ai.research1@arifoods.gr**  
 🌐 *Coming soon:* [metabrix.ai](https://metabrix.ai)
 
 ---
