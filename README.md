@@ -79,6 +79,9 @@ This is not a company. It’s a movement — toward intelligent autonomy and eth
 ## 🤝 Join the Collective
 Want to collaborate or contribute?
 
+Our Homepage :
+[⚛️ MetaBrix](https://pydevian.github.io/MetaBrix/)
+
 1. Fork this repo.  
 2. Open an issue introducing yourself and your background.  
 3. Join our open Slack/Discord community (coming soon).  
